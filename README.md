@@ -1,6 +1,6 @@
-# finalsproject
+# Final Project in Applications Development and Emerging Technologies
 
-A new Flutter project.
+A Tinder-like application for pets made in Flutter.
 
 ## Getting Started
 
