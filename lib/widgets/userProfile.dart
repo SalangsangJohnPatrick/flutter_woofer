@@ -1,9 +1,9 @@
-import 'package:finalsproject/widgets/cardstackwidget.dart';
+import 'package:woofer_app/widgets/cardstackwidget.dart';
 import 'package:flutter/material.dart';
 import '../objects/user_info.dart';
-import 'package:finalsproject/widgets/navbar.dart';
-import 'package:finalsproject/widgets/contactInfoWidget.dart';
-import 'package:finalsproject/widgets/loginPage.dart';
+import 'package:woofer_app/widgets/navbar.dart';
+import 'package:woofer_app/widgets/contactInfoWidget.dart';
+import 'package:woofer_app/widgets/loginPage.dart';
 
 
 // ignore: camel_case_types

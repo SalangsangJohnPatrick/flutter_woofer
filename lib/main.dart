@@ -1,4 +1,4 @@
-import 'package:finalsproject/widgets/loginPage.dart';
+import 'package:woofer_app/widgets/loginPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {

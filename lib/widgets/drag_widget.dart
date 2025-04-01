@@ -1,7 +1,7 @@
-import 'package:finalsproject/main.dart';
-import 'package:finalsproject/widgets/pet_profile.dart';
+import 'package:woofer_app/main.dart';
+import 'package:woofer_app/widgets/pet_profile.dart';
 import 'package:flutter/material.dart';
-import 'package:finalsproject/objects/pet_info.dart';
+import 'package:woofer_app/objects/pet_info.dart';
 
 class DragWidget extends StatefulWidget {
   const DragWidget({

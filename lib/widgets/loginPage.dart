@@ -1,8 +1,8 @@
-import 'package:finalsproject/widgets/userProfile.dart';
+import 'package:woofer_app/widgets/userProfile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
-import 'package:finalsproject/objects/user_info.dart';
-import 'package:finalsproject/widgets/registrationPage.dart';
+import 'package:woofer_app/objects/user_info.dart';
+import 'package:woofer_app/widgets/registrationPage.dart';
 
 //import 'package:flutter_application_1/theme/theme_helper.dart';
 

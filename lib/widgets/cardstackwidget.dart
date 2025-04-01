@@ -1,12 +1,12 @@
-import 'package:finalsproject/design/cardStackBG.dart';
-import 'package:finalsproject/objects/pet_info.dart';
-import 'package:finalsproject/objects/user_info.dart';
-import 'package:finalsproject/widgets/contactInfoWidget.dart';
-import 'package:finalsproject/widgets/drag_widget.dart';
-import 'package:finalsproject/widgets/navbar.dart';
+import 'package:woofer_app/design/cardStackBG.dart';
+import 'package:woofer_app/objects/pet_info.dart';
+import 'package:woofer_app/objects/user_info.dart';
+import 'package:woofer_app/widgets/contactInfoWidget.dart';
+import 'package:woofer_app/widgets/drag_widget.dart';
+import 'package:woofer_app/widgets/navbar.dart';
 import 'package:flutter/material.dart';
 import '../main.dart';
-import 'package:finalsproject/widgets/userProfile.dart';
+import 'package:woofer_app/widgets/userProfile.dart';
 
 
 class JoinedCardStack extends StatelessWidget {

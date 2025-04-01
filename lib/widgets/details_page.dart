@@ -1,6 +1,6 @@
-import 'package:finalsproject/objects/pet_info.dart';
+import 'package:woofer_app/objects/pet_info.dart';
 import 'package:flutter/material.dart';
-import 'package:finalsproject/widgets/appointment_button.dart';
+import 'package:woofer_app/widgets/appointment_button.dart';
 
 class DetailsPage extends StatelessWidget {
   Profile doggo;

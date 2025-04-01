@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
-import 'package:finalsproject/widgets/loginPage.dart';
-import 'package:finalsproject/objects/user_info.dart';
+import 'package:woofer_app/widgets/loginPage.dart';
+import 'package:woofer_app/objects/user_info.dart';
 
 //import 'package:flutter_application_1/theme/theme_helper.dart';
 

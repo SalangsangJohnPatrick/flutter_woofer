@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:finalsproject/objects/pet_info.dart';
+import 'package:woofer_app/objects/pet_info.dart';
 
 class PetProfile extends StatelessWidget {
 const PetProfile({ Key? key, required this.profile }) : super(key: key);
